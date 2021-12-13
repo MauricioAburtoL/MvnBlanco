@@ -1,4 +1,5 @@
 package uv.mx.sistemasweb;
+import static spark.Spark.*;
 
 /**
  * Hello world!
